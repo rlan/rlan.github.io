@@ -72,6 +72,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           I make art using the photography medium. The same photo seen on screen, in a book and on a print are different. The latter is my referred presentation.
 
+      - layout: top-middle
+        title: Tech Support for Everyday Computing
+        link: techsupport.pentakoala.com
+        link_text: techsupport.pentakoala.com
+        additional_links:
+          - title:  techsupport.pentakoala.com
+            icon: fas fa-blog
+            url: techsupport.pentakoala.com
+        description: | # this will include new lines to allow paragraphs
+          My blog for tech support articles. Mainly solutions to issues encountered in everyday computing.
+
 # Footer
 footer_show_references: true
 references_title: 2021
