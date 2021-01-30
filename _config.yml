@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Rick Lan
-title: Artist / Research Scientist
+title: If life is a game, then its main narrative is a world quest.
 #email: brett.h@email.co.uk
 website: pentakoala.com
 
@@ -48,9 +48,9 @@ additional_links:
 about_title: Hello
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I make art using the photography medium.
+  Rick makes art using the photography medium.
 
-  I believe artificial intelligence will make the world a better place. My professional interests are deep learning and reinforcement learning.
+  He believe artificial intelligence will make the world a better place. His professional interests are deep learning and reinforcement learning.
 
 content:
   - title: Projects # Title for the section
@@ -70,7 +70,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I make art using the photography medium. The same photo seen on screen, in a book and on a print are different. The latter is my referred presentation.
+          Rick makes art using the photography medium. The same photo seen on screen, in a book and on a print are different. The latter is his referred presentation.
 
       - layout: top-middle
         title: Tech Support for Everyday Computing
@@ -81,7 +81,7 @@ content:
             icon: fas fa-blog
             url: techsupport.pentakoala.com
         description: | # this will include new lines to allow paragraphs
-          My blog for tech support articles. Mainly solutions to issues encountered in everyday computing.
+          Rick's blog for tech support articles. Mainly solutions to issues encountered in everyday computing.
 
 # Footer
 footer_show_references: true
