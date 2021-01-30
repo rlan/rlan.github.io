@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: rlan/rlan.github.io
 #favicon: images/favicon.ico
 
 # Content configuration version
@@ -88,7 +88,7 @@ footer_show_references: true
 references_title: 2021
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
